@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSASPNETBingMaps", "CSASPNETBingMaps\CSASPNETBingMaps.csproj", "{92FD8B3A-1CBB-4A9F-ABB1-F29E098E1513}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0FCBAFAF-C41A-4571-96A5-C19C56AFA2A9}"
+	ProjectSection(SolutionItems) = preProject
+		C:\USERS\PH-SHEDTECH\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\B1QSWTCI.JQZ\description.html = C:\USERS\PH-SHEDTECH\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\B1QSWTCI.JQZ\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FD8B3A-1CBB-4A9F-ABB1-F29E098E1513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FD8B3A-1CBB-4A9F-ABB1-F29E098E1513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FD8B3A-1CBB-4A9F-ABB1-F29E098E1513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FD8B3A-1CBB-4A9F-ABB1-F29E098E1513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

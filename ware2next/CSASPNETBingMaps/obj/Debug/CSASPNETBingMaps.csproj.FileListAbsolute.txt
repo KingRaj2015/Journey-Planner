@@ -1,0 +1,20 @@
+C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll
+C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\bin\CSASPNETBingMaps.pdb
+C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.dll
+C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.pdb
+E:\work\GovHack\ware2next\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll.config
+E:\work\GovHack\ware2next\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll
+E:\work\GovHack\ware2next\CSASPNETBingMaps\bin\CSASPNETBingMaps.pdb
+E:\work\GovHack\ware2next\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.csprojResolveAssemblyReference.cache
+E:\work\GovHack\ware2next\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.dll
+E:\work\GovHack\ware2next\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.pdb
+E:\work\GovHack\ware2next\CSASPNETBingMaps\bin\System.Web.WebPages.Deployment.dll
+E:\work\GovHack\ware2next\CSASPNETBingMaps\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sanat\Desktop\Journey Planner\Journey-Planner\ware2next\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll.config
+C:\Users\Sanat\Desktop\Journey Planner\Journey-Planner\ware2next\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll
+C:\Users\Sanat\Desktop\Journey Planner\Journey-Planner\ware2next\CSASPNETBingMaps\bin\CSASPNETBingMaps.pdb
+C:\Users\Sanat\Desktop\Journey Planner\Journey-Planner\ware2next\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.dll
+C:\Users\Sanat\Desktop\Journey Planner\Journey-Planner\ware2next\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.pdb
+C:\Users\Sanat\Desktop\Journey Planner\Journey-Planner\ware2next\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.csprojResolveAssemblyReference.cache

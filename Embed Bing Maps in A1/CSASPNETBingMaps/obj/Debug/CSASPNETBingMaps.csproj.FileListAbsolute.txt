@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll.config
-C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\bin\CSASPNETBingMaps.dll
-C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\bin\CSASPNETBingMaps.pdb
-C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.dll
-C:\Users\user\Documents\Visual Studio 2013\Samples\Embed Bing Maps in A1\CSASPNETBingMaps\obj\Debug\CSASPNETBingMaps.pdb
